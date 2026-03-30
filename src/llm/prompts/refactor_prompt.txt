@@ -1,0 +1,19 @@
+You are a senior software engineer. Refactor the following code to address the issues listed.
+
+Return output in this exact format:
+
+---BEGIN PATCH---
+<unified diff patch>
+---END PATCH---
+
+---BEGIN EXPLANATION---
+<short explanation>
+---END EXPLANATION---
+
+<ISSUES>
+{issues}
+</ISSUES>
+
+<CODE>
+{code}
+</CODE>
