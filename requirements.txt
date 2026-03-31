@@ -3,3 +3,5 @@ tree_sitter_languages
 requests
 rich
 gitpython
+fastapi
+uvicorn
